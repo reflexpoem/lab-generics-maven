@@ -1,16 +1,17 @@
 package edu.grinnell.csc207.experiments;
 
+import java.io.PrintWriter;
+
 import edu.grinnell.csc207.util.SearchUtils;
 import edu.grinnell.csc207.util.predicates.OddInteger;
 import edu.grinnell.csc207.util.predicates.SmallString;
-
-import java.io.PrintWriter;
 
 /**
  * A simple set of experiments with predicates and searching.
  *
  * @author Samuel A. Rebelsky
- * @author Your Name Here
+ * @author Sunjae Kim
+   @author Sebastian Manza
  */
 public class SearchExperiments {
   /**
